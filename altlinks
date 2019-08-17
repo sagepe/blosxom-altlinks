@@ -1,5 +1,5 @@
 # Blosxom Plugin: altlinks
-# Author: Sam Pearson <sgp@domus.uklinux.net>
+# Author: Sam Pearson <https://sgp.me.uk/>
 # Version: 0.2 (for blosxom 2.0)
 # Docs: See below, or type "perldoc altlinks" from your shell prompt.
 
@@ -88,7 +88,7 @@ Currently altlinks only works for path-based URLs, date-based ones are ignored a
 
 =head1 AUTHOR
 
-Sam Pearson <http://www.domus.uklinux.net/>
+Sam Pearson <https://sgp.me.uk/>
 
 =head1 LICENSE
 
