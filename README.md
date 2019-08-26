@@ -1,6 +1,6 @@
 # Blosxom plugin - altlinks
 
-This is a very simple plugin for the Blosxom weblog application written back in 2004. I've not used Blosxom for a long time and this repository is intended as an archive.
+This is a very simple plugin for the [Blosxom](http://blosxom.sourceforge.net/) weblog application written back in 2004. I've not used Blosxom for a long time and this repository is intended as an archive.
 
 The information below is derived from the POD in-line in the plugin itself:
 
