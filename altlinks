@@ -58,9 +58,9 @@ Blosxom Plugin: altlinks
 
 =head1 DESCRIPTION
 
-altlinks is designed to allow you to include alternate <link> tags in your HTML templates for syndication feeds that mirror a visitors position in the filesystem hierarchy.  That is, the href attribute will include the path of the document viewed, all the way down to the single file level.
+altlinks was designed to allow you to include alternate <link> tags in your HTML templates for syndication feeds that mirror a visitors position in the filesystem hierarchy.  That is, the href attribute will include the path of the document viewed, all the way down to the single file level.
 
-I wrote this plugin because it always seemed to me that the root RSS feed wasn't really an "alternate" for a single entry page - especially as the root feed might not even include that entry any longer.  Also, since it is possible to subscribe to feeds for specific categories, supplying the correct information in the <head> of the HTML document seemded sensible.
+I wrote this plugin because it always seemed to me that the root RSS feed wasn't really an "alternate" for a single entry page - especially as the root feed might not even include that entry any longer.  Also, since it is possible to subscribe to feeds for specific categories, supplying the correct information in the <head> of the HTML document seemed sensible.
 
 =head1 INSTALLATION
 
